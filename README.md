@@ -1,1 +1,2 @@
 # firthackethon
+The way the program works is based on a screen test example, which gives me an already working screen displaying text. And my part was using this for testing, which I was going to implement to make a Doom run for it, but it was unfortunate because the hardware was too weak. Then I wanted to add simple games, e.g., snake, but first, with this program, I wanted to check the inputs from the buttons, which would change the display test to say " gone of the messages saying which button is pressed, and if no button is pressed, then it would do nothing.
